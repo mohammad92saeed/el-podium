@@ -149,3 +149,4 @@ ushareit.com, lcb555b3bc8667a09a, RESELLER
 triplelift.com, 14716, RESELLER, 6c33edb13117fd86
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
+vungle.com, 6a6f1dfc95fbe99e122baef4, DIRECT, c107d686becd2d77
