@@ -516,3 +516,4 @@ zetaglobal.net, 525, RESELLER
 video.unrulymedia.com, 201313863, RESELLER
 brightmountainmedia.com, 2686958, RESELLER
 openx.com, 559792583, RESELLER, 6a698e2ec38604c6
+taurusx.com,70090,RESELLER
